@@ -1,0 +1,16 @@
+header {
+color: black;
+background-color: #33C4FF;
+text-align: center;
+}
+div {
+  float: left;
+  width: 70%;
+}
+section {
+height: 250px;
+}
+img {
+float: right;
+width: 300px;
+}
